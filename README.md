@@ -2,6 +2,10 @@
 
 Bu proje, klasik DX Ball (Breakout) oyununun modern bir web tarayıcı versiyonudur. HTML5 Canvas ve JavaScript kullanılarak geliştirilmiştir.
 
+## Geliştirici
+
+Bu oyun Ahmet BÖLÜKOĞLU tarafından geliştirilmiştir.
+
 ## Özellikler
 
 - Modern ve renkli tasarım
@@ -60,4 +64,8 @@ dxball-game/
 - [ ] Güç artırımları (power-ups)
 - [ ] Farklı seviyeler
 - [ ] Yüksek skor tablosu
-- [ ] Mobil kontroller için dokunmatik destek 
+- [ ] Mobil kontroller için dokunmatik destek
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakınız 
